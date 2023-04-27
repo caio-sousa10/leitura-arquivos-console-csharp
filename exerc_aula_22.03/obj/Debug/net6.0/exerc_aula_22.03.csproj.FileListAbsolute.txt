@@ -1,0 +1,30 @@
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\bin\Debug\net6.0\exerc_aula_22.03.exe
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\bin\Debug\net6.0\exerc_aula_22.03.deps.json
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\bin\Debug\net6.0\exerc_aula_22.03.runtimeconfig.json
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\bin\Debug\net6.0\exerc_aula_22.03.dll
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\bin\Debug\net6.0\exerc_aula_22.03.pdb
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.csproj.AssemblyReference.cache
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.AssemblyInfo.cs
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.dll
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\refint\exerc_aula_22.03.dll
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.pdb
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.genruntimeconfig.cache
+C:\Users\Aula\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\ref\exerc_aula_22.03.dll
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\bin\Debug\net6.0\exerc_aula_22.03.exe
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\bin\Debug\net6.0\exerc_aula_22.03.deps.json
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\bin\Debug\net6.0\exerc_aula_22.03.runtimeconfig.json
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\bin\Debug\net6.0\exerc_aula_22.03.dll
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\bin\Debug\net6.0\exerc_aula_22.03.pdb
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.csproj.AssemblyReference.cache
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.AssemblyInfoInputs.cache
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.AssemblyInfo.cs
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.csproj.CoreCompileInputs.cache
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.dll
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\refint\exerc_aula_22.03.dll
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.pdb
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\exerc_aula_22.03.genruntimeconfig.cache
+C:\Users\Caio Sousa\source\repos\exerc_aula_22.03\exerc_aula_22.03\obj\Debug\net6.0\ref\exerc_aula_22.03.dll
